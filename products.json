@@ -1,0 +1,37 @@
+[
+    {
+        "name": "iphone10",
+        "price": 154,
+        "company": "apple"
+    },
+    {
+        "name": "s22",
+        "price": 159,
+        "company": "samsung"
+    },
+    {
+        "name": "k11",
+        "price": 150,
+        "company": "mi"
+    },
+    {
+        "name": "s21",
+        "price": 154,
+        "company": "samsung"
+    },
+    {
+        "name": "s23",
+        "price": 164,
+        "company": "samsung"
+    },
+    {
+        "name": "s20",
+        "price": 145,
+        "company": "samsung"
+    },
+    {
+        "name": "iphone14",
+        "price": 154,
+        "company": "apple"
+    }
+]
