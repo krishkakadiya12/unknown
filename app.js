@@ -1,9 +1,9 @@
-require("dotenv").config();
+require('dotenv').config();
 const express= require('express');
 const app= express();
 const connectDB= require('./db/connect');
 
-const PORT= process.env.PORT || 5000;
+const PORT= 5000;
 const p_r= require('./routes/product');
 
 app.get('/' , (req, res)=>{
